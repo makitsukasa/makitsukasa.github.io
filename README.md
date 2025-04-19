@@ -22,4 +22,4 @@ RoombaHelper
 - [Download](https://apkfree.com/com.Boxy.RoomdaHelper) - Android
 
 ~~SwipeGorilla~~
-- [~~Download](https://apkfree.com/com.Suken.SwipeGorilla) - Android~~
+- ~~[Download](https://apkfree.com/com.Suken.SwipeGorilla) - Android~~
