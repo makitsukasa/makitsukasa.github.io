@@ -2,13 +2,12 @@
 
 ### 自作キーボード
 
-  [plumb48 Kailh Choc V2 (2020/9)](https://mtsukasa.blogspot.com/2025/04/blog-post_395.html)
-  
-  [CityScape48 Kailh Choc V2 (2020/12)](https://mtsukasa.blogspot.com/2025/04/blog-post_99.html)
-  
-  [CityScape48 TTC low profile (2021/6)](https://mtsukasa.blogspot.com/2025/04/blog-post_35.html)
-  
+[plumb48 Kailh Choc V2 (2020/9)](https://mtsukasa.blogspot.com/2025/04/blog-post_395.html)
 
+[CityScape48 Kailh Choc V2 (2020/12)](https://mtsukasa.blogspot.com/2025/04/blog-post_99.html)
+
+[CityScape48 TTC low profile (2021/6)](https://mtsukasa.blogspot.com/2025/04/blog-post_35.html)
+  
 ### 自作ゲーム
 
 するめーかー 第20回あほげー参加作品
